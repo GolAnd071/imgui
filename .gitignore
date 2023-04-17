@@ -68,3 +68,6 @@ examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 # Directories
 bin/
 bin-int/
+
+# Files
+Makefile
